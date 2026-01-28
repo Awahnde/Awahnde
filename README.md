@@ -9,6 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/awandeduma/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://substack.com/@awande"><img src="https://img.shields.io/badge/Substack-Follow-orange?style=for-the-badge&logo=Substack"></a>
   <a href="mailto:dumaawande13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
