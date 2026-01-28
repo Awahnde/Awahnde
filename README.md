@@ -14,14 +14,17 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m a data analyst who believes dashboards should be used, not admired.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I turn messy, real-world data into clear insights, automate work that shouldn’t be manual, and build models that help teams make better long-term decisions.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I’m especially interested in using data to support sustainability, accountability, and smarter business outcomes.
+
+When I'm not working with data, I enjoy my daily 10 000 steps, baking, participating in hackathons, reading and creating content for my tiktok and substack pages. 
+I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://Awahnde.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
