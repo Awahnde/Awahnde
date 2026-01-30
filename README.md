@@ -25,7 +25,8 @@ When I'm not working with data, I enjoy my daily 10 000 steps, baking, participa
 I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [Check Out My Full Portfolio Website](https://Awahnde.github.io/)
+### [🌐 Portfolio](https://awahnde.github.io/) • [📂 GitHub](https://github.com/awahnde)
+
       
 ##  What I'm Currently Working On 
 
