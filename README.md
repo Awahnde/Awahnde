@@ -41,8 +41,6 @@ I love the "aha!" moment when data reveals something new and useful.
 
 ##  Technical Skillset 
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
@@ -50,7 +48,25 @@ I love the "aha!" moment when data reveals something new and useful.
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
+</p 
+
+<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+
+##  Certifications
+
+### Coursera
+[![Excel Skills](https://img.shields.io/badge/Excel_Skills-Essentials-blue?style=for-the-badge&logo=coursera)](https://coursera.org/share/ba1fb171f905a216eaf81dbbb38f64ac)
+[![Google_Data_Analytics](https://img.shields.io/badge/Google_Data_Analytics-Professional_Certificate-blue?style=for-the-badge&logo=coursera)](https://coursera.org/share/6623c375a5768e0beb66af5ed2e3a896)
+
+### Maven Analytics
+[![Power_BI_Desktop](https://img.shields.io/badge/Power_BI_Desktop-Maven_Analytics-orange?style=for-the-badge&logo=microsoft)](https://certificates.mavenanalytics.io/6e16e0c5-9de4-4b09-a56f-14c2d7e1a285)
+
+### DataCamp SQL
+[![SQL_Intro](https://img.shields.io/badge/DataCamp-SQL_Intro-green?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/956c8f6637faefaf44ff3f6ffb9d709a3953d83b)
+[![SQL_Intermediate](https://img.shields.io/badge/DataCamp-SQL_Intermediate-green?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/a862aa3085bfaf4e071b8fa9b957aec19684dccf)
+[![SQL_Joining](https://img.shields.io/badge/DataCamp-SQL_Joining-green?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/975ec20cd23f9d0589345d9f34f0e21b987dd165)
+
+
 
 #### Programming & Automation
 <p>
